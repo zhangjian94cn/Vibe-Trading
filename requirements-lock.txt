@@ -419,7 +419,7 @@ caio==0.12.2 \
     --hash=sha256:eee9376d0e2af25b6defc5bce39f6efa90521c803aaf12eba931bd898a397cfc \
     --hash=sha256:f2355db8917f5a0f3638bf332fe0d87549c80e978fca01db84a8a14b9df56a05
     # via aiofile
-ccxt==4.5.71 \
+ccxt==4.5.73 \
     --hash=sha256:171f9dd4c9c915b5e8dadf2730ebd9c675b590c7f03b0e420841f03a5a2195f8 \
     --hash=sha256:936d01e84c47f4a6ce711962881cef5b094a1d39d4574fd08e186bd10160cf8c
     # via -r agent/requirements.txt
