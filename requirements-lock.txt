@@ -973,7 +973,7 @@ fastmcp==3.4.6 \
     --hash=sha256:2287938da8364ad7071bec2d2393af6ae10fd4e836f06f506569f1456cc87eb4 \
     --hash=sha256:2a29967be9f68cdd1b4cefb413ede74f83adefd923919a37aaac3611eccdd749
     # via -r agent/requirements.txt
-fastmcp-slim==3.4.6 \
+fastmcp-slim==3.4.7 \
     --hash=sha256:3e08e6acb03523a47aa17f4d2ab9943e648a41e20b24084da491a732c46dffdc \
     --hash=sha256:6a1e6e42c697ba90abcb1be617a26947d07316f13c6fa138ae7b0de24558e32c
     # via fastmcp
