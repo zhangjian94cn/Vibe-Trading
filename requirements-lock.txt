@@ -432,7 +432,7 @@ certifi==2026.6.17 \
     #   httpcore
     #   httpx
     #   requests
-cffi==2.0.0 \
+cffi==2.1.1 \
     --hash=sha256:00bdf7acc5f795150faa6957054fbbca2439db2f775ce831222b66f192f03beb \
     --hash=sha256:07b271772c100085dd28b74fa0cd81c8fb1a3ba18b21e03d7c27f3436a10606b \
     --hash=sha256:087067fa8953339c723661eda6b54bc98c5625757ea62e95eb4898ad5e776e9f \
