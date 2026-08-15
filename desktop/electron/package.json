@@ -28,7 +28,7 @@
     "@types/node": "^24.10.0",
     "electron": "43.1.1",
     "electron-builder": "26.15.3",
-    "typescript": "^5.9.3"
+    "typescript": "^7.0.0"
   },
   "build": {
     "appId": "io.github.vibetrading.community.desktop",
