@@ -1,7 +1,7 @@
 # ============================================================================
 # Stage 1: Build frontend
 # ============================================================================
-FROM node:22-slim@sha256:6c74791e557ce11fc957704f6d4fe134a7bc8d6f5ca4403205b2966bd488f6b3 AS frontend-build
+FROM node:24-slim@sha256:3638d9a6fe4030bd716be989438248074489337ba3275657f93595428be4fc03 AS frontend-build
 # node:22-slim digest resolved 2026-07-28
 
 WORKDIR /app/frontend
