@@ -4422,7 +4422,7 @@ yarl==1.24.5 \
     # via
     #   aiohttp
     #   ccxt
-yfinance==1.5.2 \
+yfinance==1.6.0 \
     --hash=sha256:197fc03485c246547a5a9184956c60150ea33b6f740d877e02a97f123d5cd2b9 \
     --hash=sha256:5935d457fc62cf2f7e9bf1b2d019a8fec8fb0072f58a095eb53740b70a6a06ed
     # via -r agent/requirements.txt
