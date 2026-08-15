@@ -3708,7 +3708,7 @@ typing-extensions==4.16.0 \
     #   referencing
     #   starlette
     #   typing-inspection
-typing-inspection==0.4.2 \
+typing-inspection==0.4.4 \
     --hash=sha256:4ed1cacbdc298c220f1bd249ed5287caa16f34d44ef4e9c3d0cbad5b521545e7 \
     --hash=sha256:ba561c48a67c5958007083d386c3295464928b01faa735ab8547c5692e87f464
     # via
