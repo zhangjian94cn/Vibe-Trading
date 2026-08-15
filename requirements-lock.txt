@@ -2387,7 +2387,7 @@ packaging==26.3 \
     #   langchain-core
     #   langsmith
     #   matplotlib
-pandas==2.3.3 \
+pandas==3.0.5 \
     --hash=sha256:0242fe9a49aa8b4d78a4fa03acb397a58833ef6199e9aa40a95f027bb3a1b6e7 \
     --hash=sha256:1611aedd912e1ff81ff41c745822980c49ce4a7907537be8692c8dbc31924593 \
     --hash=sha256:1b07204a219b3b7350abaae088f451860223a52cfb8a6c53358e7948735158e5 \
