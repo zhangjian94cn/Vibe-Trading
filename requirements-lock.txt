@@ -4123,7 +4123,7 @@ xlsxwriter==3.2.9 \
     --hash=sha256:254b1c37a368c444eac6e2f867405cc9e461b0ed97a3233b2ac1e574efb4140c \
     --hash=sha256:9a5db42bc5dff014806c58a20b9eae7322a134abb6fce3c92c181bfb275ec5b3
     # via python-pptx
-xxhash==3.8.1 \
+xxhash==4.0.0 \
     --hash=sha256:000435984a0469b0f822fe76f35bddea0f96a4d6521b3339a60a6428cdee1edc \
     --hash=sha256:00de40f3b42240db23a82a5c682b55d7263d84a26a953240c1aee463409660e3 \
     --hash=sha256:01cab782f8a0a05ecad2c63d7ef10f7ab475f660e0d6419d069418c14d88de7c \
