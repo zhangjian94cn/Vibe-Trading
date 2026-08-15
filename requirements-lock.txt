@@ -523,7 +523,7 @@ cffi==2.0.0 \
     #   cryptography
     #   curl-cffi
     #   weasyprint
-charset-normalizer==3.4.7 \
+charset-normalizer==3.5.0 \
     --hash=sha256:007d05ec7321d12a40227aae9e2bc6dca73f3cb21058999a1df9e193555a9dcc \
     --hash=sha256:03853ed82eeebbce3c2abfdbc98c96dc205f32a79627688ac9a27370ea61a49c \
     --hash=sha256:07d9e39b01743c3717745f4c530a6349eadbfa043c7577eef86c502c15df2c67 \
