@@ -2761,7 +2761,7 @@ pydantic==2.13.4 \
     #   openai
     #   openapi-pydantic
     #   pydantic-settings
-pydantic-core==2.46.4 \
+pydantic-core==2.48.0 \
     --hash=sha256:00c603d540afdd6b80eb39f078f33ebd46211f02f33e34a32d9f053bba711de0 \
     --hash=sha256:0186750b482eefa11d7f435892b09c5c606193ef3375bcf94aa00ae6bfb66262 \
     --hash=sha256:041bde0a48fd37cf71cab1c9d56d3e8625a3793fef1f7dd232b3ff37e978ecda \
