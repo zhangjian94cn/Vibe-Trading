@@ -14,7 +14,7 @@ RUN npm run build
 # Stage 2: Python builder — compiles wheels + builds a self-contained venv.
 # build-essential lives ONLY here; it never reaches the runtime image.
 # ============================================================================
-FROM python:3.11-slim@sha256:e031123e3d85762b141ad1cbc56452ba69c6e722ebf2f042cc0dc86c47c0d8b3 AS builder
+FROM python:3.11-slim@sha256:a630a63cdb314e2d138a2fca3e375e319e8568346ffafac5b980f888630ac4f1 AS builder
 # python:3.11-slim digest resolved 2026-07-13
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
@@ -56,7 +56,7 @@ RUN pip install --no-cache-dir --no-deps -e .
 # ============================================================================
 # Stage 3: Runtime — carries the prebuilt venv only, no compilers/dev headers.
 # ============================================================================
-FROM python:3.11-slim@sha256:e031123e3d85762b141ad1cbc56452ba69c6e722ebf2f042cc0dc86c47c0d8b3 AS runtime
+FROM python:3.11-slim@sha256:a630a63cdb314e2d138a2fca3e375e319e8568346ffafac5b980f888630ac4f1 AS runtime
 # python:3.11-slim digest resolved 2026-07-13
 
 LABEL org.opencontainers.image.title="Vibe-Trading" \
