@@ -148,7 +148,7 @@ akracer==0.0.14 ; sys_platform == 'linux' \
     --hash=sha256:629eaccd0e1d18366804b797eb2692ed47bed0028f55b5a5af3cc277d521df04 \
     --hash=sha256:e084c14bf6d9a02d5da375e3af1cba3d46f103aa1cf3a2010593b3e95bf1c29a
     # via akshare
-akshare==1.18.82 \
+akshare==1.18.91 \
     --hash=sha256:456f92529a6aecdf6ee77882a18b5b0392092a75cd33a3c00cbeab0bb6691488 \
     --hash=sha256:bb5df05b060e3a6aebbeb711d89167fc58f55ccd94317054b419ccaab1891317
     # via -r agent/requirements.txt
